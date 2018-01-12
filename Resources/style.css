@@ -10,11 +10,11 @@ h1 {
   color: white;
 }
 h1 {
-  height: 400px;
+  height: 200px;
   background-size: cover;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
-.group {
+h4 {
   font-size: 18px;
   color: white;
 }
