@@ -1,17 +1,19 @@
 body {
   font-family: Helvetica;
   text-align: center;
-  border-left: 20px;
-  border-right: 20px;
+}
+h1,
+h2,
+h3 {
+  font-weight: bold;
 }
 h1 {
   font-size: 70px;
-  font-weight: bold;
-  color: white;
 }
-h1 {
-  height: 200px;
-  background-size: cover;
+.NY {
+  background-image: cover;
+  text-align: center;
+  color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 h4 {
@@ -40,4 +42,8 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+.link {
+  font-size: 18px;
+  color: white;
 }
